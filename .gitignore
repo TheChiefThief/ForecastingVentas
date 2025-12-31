@@ -1,0 +1,27 @@
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de configuración del editor
+.vscode/
+.idea/
+
+# Ignorar archivos de datos
+data/raw/
+data/processed/
+
+# Ignorar modelos entrenados
+models/
+
+# Ignorar archivos de entorno virtual
+venv/
+.env
+
+# Ignorar archivos de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar archivos de sistema operativo
+.DS_Store
+Thumbs.db
