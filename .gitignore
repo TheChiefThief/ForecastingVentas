@@ -10,10 +10,10 @@ __pycache__/
 
 # Ignorar archivos de datos
 data/raw/
-data/processed/
+# data/processed/
 
 # Ignorar modelos entrenados
-models/
+# models/
 
 # Ignorar archivos de entorno virtual
 venv/
