@@ -9,7 +9,7 @@ __pycache__/
 .idea/
 
 # Ignorar archivos de datos
-data/raw/
+# data/raw/
 # data/processed/
 
 # Ignorar modelos entrenados
